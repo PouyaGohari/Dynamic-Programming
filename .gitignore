@@ -4,4 +4,4 @@
 .idea/
 *.bak
 logs/*
-*.o
+*.out
